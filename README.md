@@ -2,7 +2,7 @@
 # Language: Python
 # Input: SIF file
 # Output: CSV file
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
 
 PluMA plugin that takes as input a file in the Simple Interaction Format (SIF) and converts it to a CSV file,
 estimating correlations.
