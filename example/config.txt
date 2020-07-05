@@ -1,0 +1,2 @@
+Prefix plugins/SIF2CSV/example
+Plugin SIF2CSV inputfile Epigenetics-2.0-Hs.sif outputfile Epigenetics-2.0-Hs.csv
